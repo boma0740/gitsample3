@@ -86,6 +86,11 @@ body {
 	margin-top: 0;
 }
 
+.box2:last-child {
+	margin-bottom: 0;
+}
+
+
 .side {
 	float: left;
 	width: 150px;
